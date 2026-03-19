@@ -1,6 +1,3 @@
-## Hi there 👋, my name is jude
-How you doing?
-
 
 
 <!--
